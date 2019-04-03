@@ -31,6 +31,6 @@ _ReSharper*/
 #Nuget packages folder
 packages/
 .vscode/
-.bower_components/
-.node_modules/
+bower_components/
+node_modules/
 package-lock.json
